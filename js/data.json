@@ -1,0 +1,16 @@
+[
+	{
+		"name" : "Bill Gates",
+		"title" : "Cheif Technology Officer",
+		"company" : "Microsoft",
+		"wiki" : "https://en.wikipedia.org/wiki/Bill_Gates",
+		"image" : "Bill_Gates_June_2015.jpg"
+	},
+	{
+		"name" : "John Carmack",
+		"title" : "Cheif Technology Officer",
+		"company" : "id Software",
+		"wiki" : "https://en.wikipedia.org/wiki/John_Carmack",
+		"image" : "220px-John_Carmack_GDC_2010.jpg"
+	}
+]
