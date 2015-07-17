@@ -2,9 +2,16 @@
 	{
 		"name" : "Bill Gates",
 		"title" : "Cheif Technology Officer",
-		"company" : "Microsoft",
+		"company" : "Microsoft Corporation",
 		"wiki" : "https://en.wikipedia.org/wiki/Bill_Gates",
 		"image" : "Bill_Gates_June_2015.jpg"
+	},
+	{
+		"name" : "Dan Bricklin",
+		"title" : "The Father of the Spreadsheet",
+		"company" : " Software Arts",
+		"wiki" : "https://en.wikipedia.org/wiki/Dan_Bricklin",
+		"image" : "180px-Dan_Bricklin_-_2007.jpg"
 	},
 	{
 		"name" : "John Carmack",
@@ -12,5 +19,70 @@
 		"company" : "id Software",
 		"wiki" : "https://en.wikipedia.org/wiki/John_Carmack",
 		"image" : "220px-John_Carmack_GDC_2010.jpg"
+	},
+	{
+		"name" : "Jeremy Allaire",
+		"title" : "Co-founder",
+		"company" : "Allaire Corporation",
+		"wiki" : "https://en.wikipedia.org/wiki/Jeremy_Allaire",
+		"image" : "jeremy-allaire-circle-interview-featured-300x185.jpg"
+	},
+	{
+		"name" : "Scott Guthrie",
+		"title" : "ASP.NET Co-Creator",
+		"company" : "Microsoft Corporation",
+		"wiki" : "https://en.wikipedia.org/wiki/Scott_Guthrie",
+		"image" : "guthrie.jpg"
+	},
+	{
+		"name" : "Mark Anders",
+		"title" : "ASP.NET Co-Creator",
+		"company" : "Microsoft Corporation",
+		"wiki" : "",
+		"image" : "34b008b.jpg"
+	},
+	{
+		"name" : "Anders Hejlsberg",
+		"title" : "The lead architect of C#",
+		"company" : "Microsoft Corporation",
+		"wiki" : "https://en.wikipedia.org/wiki/Anders_Hejlsberg",
+		"image" : "220px-Anders_Hejlsberg.jpg"
+	},
+	{
+		"name" : "Robert Martin (Uncle Bob)",
+		"title" : "Software Engineer",
+		"company" : "Object Mentor",
+		"wiki" : "https://en.wikipedia.org/wiki/Robert_Cecil_Martin",
+		"image" : "photo_martin_r.jpg"
+	},
+	{
+		"name" : "Robert Martin (Uncle Bob)",
+		"title" : "Software Engineer",
+		"company" : "Thought Works",
+		"wiki" : "https://en.wikipedia.org/wiki/Martin_Fowler",
+		"image" : "Webysther_20150414193208_-_Martin_Fowler.jpg"
+	},
+	{
+		"name" : "David Heinemeier Hansson",
+		"title" : "Creator of Ruby on Rails",
+		"company" : "37signals",
+		"wiki" : "https://en.wikipedia.org/wiki/David_Heinemeier_Hansson",
+		"image" : "david.heinemeier.hansson.jpg"
+	},
+	{
+		"name" : "Scott Ambler",
+		"title" : "Software Consultant",
+		"company" : "Ambysoft",
+		"wiki" : "https://en.wikipedia.org/wiki/Scott_Ambler",
+		"image" : "scottAmblerHeadShot.jpg"
+	},
+	{
+		"name" : "Palmer Lucky",
+		"title" : "Founder",
+		"company" : "Oculus VP",
+		"wiki" : "https://en.wikipedia.org/wiki/Palmer_Luckey",
+		"image" : "Palmer_Luckey_at_SVVR_2014.jpg"
 	}
+
+
 ]
