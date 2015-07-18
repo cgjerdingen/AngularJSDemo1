@@ -1,0 +1,14 @@
+<section class="mentorinfo">
+	<div class="mentor cf" ng-model="mentors">
+		<a href="#/details/{{prevItem}}" class="btn btn-left">&lt;</a>
+		<a href="#/details/{{nextItem}}" class="btn btn-right">&gt;</a>
+		<h1>{{mentors[whichItem].name}}</h1>
+		<div class="info">
+			<h3>{{mentor[whichItem].company}}</h3>
+			<img ng-src="images/{{mentors[whichItem].image}}" alt="Photo of {{mentors[whichItem].name}}">
+			<a href="{{mentors[whichItem].wiki}}" title="Wiki link for {{mentors[whichItem].name}}">{{mentors[whichItem].name}} Wikipedia page</a>
+			<div class="bio">{{mentors[whichItem].bio}}</div>
+		</div>
+	</div>
+	<a href="index.html">&laquo; Back to search</a>
+</section>
